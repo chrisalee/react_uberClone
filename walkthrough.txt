@@ -1,0 +1,23 @@
+
+// 1.  expo init client
+// 2.  set up redux
+//      a. npm i react-redux 
+//      b. npm i @reduxjs/toolkit
+//      c. create store
+// 3.  npm tailwind classnames
+// 4.  create screens folder
+//      a. HomeScreen
+// 5. components folder
+//      a. navoptions
+// 6. npm install react-native-elements
+// 7. npm install react-native-vector-icons
+// 8. npm install react-native-safe-area-context
+// 9.  MapScreen
+// 10. npm install @react-navigation/native
+// 11. expo install react-native-screens react-native-safe-area-context
+// 12. npm i react-native-gesture-handler
+// 13. npm install @react-navigation/native-stack
+//      a. (STACK!!!)
+//      b. add to App.js  // similar to react-router-dom
+//      c. add navigation to NavOptions 
+// 14. EatScreen

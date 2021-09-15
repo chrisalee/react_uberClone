@@ -5,7 +5,7 @@ export default class MapScreen extends Component {
   render() {
     return (
       <View>
-        <Text> map stuff </Text>
+        <Text> eat stuff </Text>
       </View>
     );
   }
