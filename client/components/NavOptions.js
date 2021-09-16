@@ -25,6 +25,9 @@ const NavOptions = () => {
   return (
     <FlatList
       data={data}
+      style={{
+        marginTop: "15px"
+      }}
       horizontal
       keyExtractor={(item) => item.id}
       renderItem={({ item }) => (

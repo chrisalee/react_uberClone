@@ -10,6 +10,7 @@ import EatScreen from "./screens/EatScreen";
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
+
 export default function App() {
   const Stack = createNativeStackNavigator();
 
@@ -44,14 +45,4 @@ export default function App() {
       </NavigationContainer>
     </Provider>
   );
-}
-
-const styles = StyleSheet.create({
-  container: {
-    maxWidth: "100%",
-    flex: 1,
-    backgroundColor: "#f9f9f9",
-    alignItems: "center",
-    justifyContent: "center",
-  },
-});
+};
